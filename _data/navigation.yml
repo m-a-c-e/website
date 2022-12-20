@@ -1,13 +1,13 @@
 # main links links
 main: 
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   - title: "Robotics and Control"
-    url: /markdown/
+    url: /robotics/
     
   - title: "Computer Vision"
-    url: /markdown/
+    url: /cv/
   
   - title: "Other"
-    url: /markdown/
+    url: /other/
