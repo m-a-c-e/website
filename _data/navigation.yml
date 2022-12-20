@@ -3,5 +3,15 @@ main:
   - title: "Resume"
     url: /cv/
     
-  - title: "Project Videos"
+  - title: "Mechatronics"
     url: /markdown/
+  
+  - title: "Robot Navigation"
+    url: /markdown/
+    
+  - title: "Computer Vision"
+    url: /markdown/
+    
+  - title: "Simulation"
+    url: /markdown/
+    
