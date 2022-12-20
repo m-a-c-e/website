@@ -11,6 +11,8 @@ redirect_from:
 
 
 ![Alt Text](http://m-a-c-e.github.io/website/files/orlaco2.gif)
-<video src="http://m-a-c-e.github.io/website/files/control.mp4" controls="controls" style="max-width: 730px;">
+<video width="320" height="240" controls>
+<source src="http://m-a-c-e.github.io/website/files/control.mp4">
+Your browser does not support this awesome video title.
 </video>
 
