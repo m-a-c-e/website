@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
+![Alt Text](http://m-a-c-e.github.io/website/files/object_tracking.gif)
+![Alt Text](http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif)
 ![Alt Text](http://m-a-c-e.github.io/website/files/control.gif)
 
 
