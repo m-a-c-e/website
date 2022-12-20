@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Computer Vision"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-![Alt Text](http://m-a-c-e.github.io/website/files/giphy.gif)
+![Alt Text](http://m-a-c-e.github.io/website/files/orlaco2.gif)
 
