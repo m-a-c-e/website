@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Resume"
+permalink: /resume/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Manan Patel
 215 10th St NW	(646) 633 3612
 Atlanta, GA 30318	mpatel608@gatech.edu
