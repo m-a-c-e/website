@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="center">
-<img src="resume.jpg" style="border: 1px solid black" >
-<figcaption align="middle"></figcaption>
-</p>
+[Download my resume from here](http://academicpages.github.io/website/_pages/paper1.pdf)
