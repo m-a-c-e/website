@@ -13,7 +13,7 @@ name                     : &name "Manan Patel"
 description              : &description "Graduate Student at Georgia Tech, Masters in Robotics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://m-a-c-e-website.github.io"
+repository               : "https://github.com/m-a-c-e?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Manan Patel"
   avatar           : "profile.png"
-  bio              : "Pursuing Masters in Robotics at Georgia Tech with focus on Computer Vision, AI and Mechatronics"
+  bio              : "Masters student at Georgia Tech"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/manan-patel1998/
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
