@@ -11,5 +11,5 @@ redirect_from:
 
 <p align="center">
 <img src="_pages/resume.jpg" style="border: 1px solid black" >
-<figcaption align="middle">Utterance and Context Video sequences: Text and Audio-visual components (Credit: <a href="https://arxiv.org/pdf/1906.01815.pdf">[6]</a>)</figcaption>
+<figcaption align="middle">Utterance and Context Video sequences: Text and Audio-visual components </figcaption>
 </p>
