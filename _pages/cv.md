@@ -14,10 +14,10 @@ The goal of this project was to detect people wearing safety vest around a track
 - Get the camera calibration and transformation matrices
 - Filter the image for safety vest colors using hsv color space in OpenCV
 - Detect the centres of the blobs generated - keypoints
-- - Build SIFT descriptors at these keypoints
+- Build SIFT descriptors at these keypoints
 - Perform one-to-one matching between keypoints in left and right images - generating pair of keypoints (left and right image)
 - Perform triangulaiton using direct linear transform in OpenCV using the pairs of keypoints
 
-![Alt Text](http://m-a-c-e.github.io/website/files/orlaco2.gif)
+![Alt Text](http://m-a-c-e.github.io/website/files/orlaco2.gif "The pipeline outputs the distance in meters to the track loader")
 
 
