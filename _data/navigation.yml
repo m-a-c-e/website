@@ -3,15 +3,11 @@ main:
   - title: "Resume"
     url: /cv/
     
-  - title: "Mechatronics"
-    url: /markdown/
-  
-  - title: "Robot Navigation"
+  - title: "Robotics and Control"
     url: /markdown/
     
   - title: "Computer Vision"
     url: /markdown/
-    
-  - title: "Simulation"
+  
+  - title: "Other"
     url: /markdown/
-    
