@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="sdf.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 Manan Patel
 215 10th St NW	(646) 633 3612
 Atlanta, GA 30318	mpatel608@gatech.edu
