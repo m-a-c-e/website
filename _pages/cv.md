@@ -11,5 +11,6 @@ redirect_from:
 
 
 ![Alt Text](http://m-a-c-e.github.io/website/files/orlaco2.gif)
-![Alt Text](http://m-a-c-e.github.io/website/files/pid.mp4)
+<video src="http://m-a-c-e.github.io/website/files/control.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
