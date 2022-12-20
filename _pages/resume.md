@@ -11,5 +11,4 @@ redirect_from:
 
 [Download my resume from here](http://m-a-c-e.github.io/website/_pages/Resume.pdf)
 
-![Alt Text](http://m-a-c-e.github.io/website/files/giphy.gif)
 
