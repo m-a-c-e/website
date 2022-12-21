@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Object Tracking and Obstacle Avoidance
-The goal of this project was to use lidar and camera input to track objects and maintain a certain distance to them and to also perform obstacle avoidance using wall following behavior. The major steps involved were as follows:
+The goal of this project was to use lidar and camera input to navigate a maze. Two main algorithms leading up to it are shown below in object tracking and obstacle avoidance. The major steps involved were as follows:
 - For object tracking, read the image from the camera and get the centre of the image
 - Turn the robot based on the pixel disparity between the centre of the camera and image centre using PID control
 - For obstacle avoidance, once the obstacle is detected, using the lidar measurements in front of the robot, make the robot parallel to the wall.
