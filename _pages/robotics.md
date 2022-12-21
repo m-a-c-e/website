@@ -22,10 +22,11 @@ The goal of this project was to use lidar and camera input to navigate a maze. T
   <figcaption align="middle"> Utterance and Context Video sequences: Text and Audio-visual components </figcaption>
 </p>
 
-![Alt Text](http://m-a-c-e.github.io/website/files/object_tracking.gif)
-
-![Alt Text](http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif)
-
-![Alt Text](http://m-a-c-e.github.io/website/files/control.gif)
+### Line Follower Robot
+The goal of this project was to build a line follower robot using infrared sensors which can detect bright white color. The gif below shows the demo from the final competition wherein the robot has to follow the line and complete the track in minimal amount of time. We used PID control and placed 4th in the competition.
+<p float="left">
+  <img src="http://m-a-c-e.github.io/website/files/control.gif" width="500" height=500/>
+  <figcaption align="middle"> Utterance and Context Video sequences: Text and Audio-visual components </figcaption>
+</p>
 
 
