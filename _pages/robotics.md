@@ -17,9 +17,9 @@ The goal of this project was to use lidar and camera input to navigate a maze. T
 - Once the obstacle is cleared, re-oreient the robot to towards the goal using in-built IMU
 
 <p float="left">
-  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="500" />
-  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="500" />
-  <figcaption align="middle"> Utterance and Context Video sequences: Text and Audio-visual components </figcaption>
+  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="400" />
+  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="400" />
+  <figcaption align="middle"> Object tracking (left) and Obstacle aovidance (right) </figcaption>
 </p>
 
 ### Line Follower Robot
