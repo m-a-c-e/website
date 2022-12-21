@@ -18,8 +18,8 @@ The goal of this project was to detect people wearing safety vest around a track
 - Perform one-to-one matching between keypoints in left and right images - generating pair of keypoints (left and right image)
 - Perform triangulaiton using direct linear transform in OpenCV using the pairs of keypoints
 
-<p align="centre">
-  <img src="http://m-a-c-e.github.io/website/files/orlaco2.gif"/>
-  <img src="http://m-a-c-e.github.io/website/files/orlaco1.gif"/>
+<p align="middle">
+  <img src="http://m-a-c-e.github.io/website/files/orlaco2.gif"/ width=400>
+  <img src="http://m-a-c-e.github.io/website/files/orlaco1.gif"/ width=400>
   <figcaption align="middle"> The pipeline outputs the distance in meters to the track loader. Left (outdoor) right (indoor) </figcaption>
 </p>
