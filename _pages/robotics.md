@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computer Vision"
+title: ""
 permalink: /robotics/
 author_profile: true
 redirect_from:
@@ -17,8 +17,9 @@ The goal of this project was to use lidar and camera input to navigate a maze. T
 - Once the obstacle is cleared, re-oreient the robot to towards the goal using in-built IMU
 
 <p float="left">
-  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="100" />
-  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="100" /> 
+  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="500" />
+  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="500" />
+  <figcaption align="middle"> Utterance and Context Video sequences: Text and Audio-visual components </figcaption>
 </p>
 
 ![Alt Text](http://m-a-c-e.github.io/website/files/object_tracking.gif)
