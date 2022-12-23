@@ -16,7 +16,7 @@ This is a simulation generated in OpenGL using multi-threading.
 - Incoroporated thread-saftey and collision detection across threads
 
 <p align="middle">
-  <img src="http://m-a-c-e.github.io/website/files/buzzy.gif" width="500" />
+  <img src="http://m-a-c-e.github.io/website/files/buzzy.gif" width="600" height=400 />
   <figcaption align="middle"> Rendering using OpenGL and multi-threading using std::threads in C++ </figcaption>
 </p>
 
