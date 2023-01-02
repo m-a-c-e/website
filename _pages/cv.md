@@ -21,5 +21,5 @@ The goal of this project was to detect people wearing safety vest around a track
 <p align="middle">
   <img src="http://m-a-c-e.github.io/website/files/orlaco2.gif" width="400" />
   <img src="http://m-a-c-e.github.io/website/files/orlaco1.gif" width="400" />
-  <figcaption align="middle"> The pipeline outputs the distance in meters to the track loader. Left (outdoor) right (indoor) </figcaption>
+  <figcaption align="middle"> The pipeline outputs the distance in meters to the track loader. Left (outdoor) right (indoor). This work was completed as a part of Equipment Share Robotics project. </figcaption>
 </p>
