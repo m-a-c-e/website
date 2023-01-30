@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my resume from here](http://m-a-c-e.github.io/website/files/resume.docx)
+[Download my resume from here](http://m-a-c-e.github.io/website/files/resume.pdf)
 
 
