@@ -8,7 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-### Object Tracking and Obstacle Avoidance
+<!-- ### 3DOF Manipulator Dynamics and Control (Georgia Tech - Spring 2023)
+The goal of this project was to design a controller for a simplified PUMA robot so that it can achieve a reference task space trajectory. The procedure for designing the controller was as follows:
+- Use lagranges equation to find the torque required at each joint to compensate for gravitational force
+- Determine the error, derivative of error and integral of error between the reference and measured end effector position
+- Scale these error with PID gains to find the froce exerted by an imaginary reciprocal wrench (Force exerted will be zero when the error is zero)
+- 
+-  -->
+
+### Object Tracking and Obstacle Avoidance (Georgia Tech - Fall 2021)
 The goal of this project was to use lidar and camera input to navigate a maze. Two main algorithms leading up to it are shown below in object tracking and obstacle avoidance. The major steps involved were as follows:
 - For object tracking, read the image from the camera and get the centre of the image
 - Turn the robot based on the pixel disparity between the centre of the camera and image centre using PID control
@@ -22,7 +30,7 @@ The goal of this project was to use lidar and camera input to navigate a maze. T
   <figcaption align="middle"> Object tracking (left) and Obstacle aovidance (right) </figcaption>
 </p>
 
-### Line Follower Robot
+### Line Follower Robot (Purdue - Fall 2019)
 <p>
   <img style="float: right;" src="http://m-a-c-e.github.io/website/files/control.gif" width="200" height="400"/>
 </p>
