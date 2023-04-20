@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!-- ### 3DOF Manipulator Dynamics and Control (Georgia Tech - Spring 2023)
+### 3DOF Manipulator Dynamics and Control (Georgia Tech - Spring 2023)
 The goal of this project was to design a controller for a simplified PUMA robot (3-DOF) so that it can achieve a reference task space trajectory. The procedure for designing the controller was as follows:
 - Use lagranges equation to find the torque required at each joint to compensate for gravitational force
 - Determine the error, derivative of error and integral of error between the reference and measured end effector position
@@ -19,12 +19,18 @@ The goal of this project was to design a controller for a simplified PUMA robot 
 - See below for results for reference and reproduced trajectory
 
 <p align="middle">
-  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="400" />
-  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="400" />
-  <figcaption align="middle"> Object tracking (left) and Obstacle aovidance (right) </figcaption>
+  <img src="http://m-a-c-e.github.io/website/files/puma_circles.gif" width="400" />
+  <img src="http://m-a-c-e.github.io/website/files/2_reproduced_trajectory.png" width="400" />
+  <figcaption align="middle"> Robot (left) executing the input trajectory (right) </figcaption>
 </p>
 
--  -->
+
+<p align="middle">
+  <img src="http://m-a-c-e.github.io/website/files/puma_robots.gif" width="400" />
+  <img src="http://m-a-c-e.github.io/website/files/produced_trajectory_3(1).png" width="400" />
+  <figcaption align="middle"> Robot (left) executing the input trajectory (right) </figcaption>
+</p>
+
 
 ### Object Tracking and Obstacle Avoidance (Georgia Tech - Fall 2021)
 The goal of this project was to use lidar and camera input to navigate a maze. Two main algorithms leading up to it are shown below in object tracking and obstacle avoidance. The major steps involved were as follows:
