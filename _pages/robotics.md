@@ -9,11 +9,21 @@ redirect_from:
 
 {% include base_path %}
 <!-- ### 3DOF Manipulator Dynamics and Control (Georgia Tech - Spring 2023)
-The goal of this project was to design a controller for a simplified PUMA robot so that it can achieve a reference task space trajectory. The procedure for designing the controller was as follows:
+The goal of this project was to design a controller for a simplified PUMA robot (3-DOF) so that it can achieve a reference task space trajectory. The procedure for designing the controller was as follows:
 - Use lagranges equation to find the torque required at each joint to compensate for gravitational force
 - Determine the error, derivative of error and integral of error between the reference and measured end effector position
 - Scale these error with PID gains to find the froce exerted by an imaginary reciprocal wrench (Force exerted will be zero when the error is zero)
-- 
+- Compute the jacobian matrix (3x3) as a function of joint angles
+- Compute the reciprocal wrench Torque = J' * F
+- Tune the gains so that the end point is stable throughout the trajectory
+- See below for results for reference and reproduced trajectory
+
+<p align="middle">
+  <img src="http://m-a-c-e.github.io/website/files/object_tracking.gif" width="400" />
+  <img src="http://m-a-c-e.github.io/website/files/obstacle_avoidance.gif" width="400" />
+  <figcaption align="middle"> Object tracking (left) and Obstacle aovidance (right) </figcaption>
+</p>
+
 -  -->
 
 ### Object Tracking and Obstacle Avoidance (Georgia Tech - Fall 2021)
