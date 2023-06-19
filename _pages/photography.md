@@ -13,6 +13,11 @@ redirect_from:
 I have pursued photography as a hobby since my 14th birthday, when I received a digital camera as a present from my family. Through most of my pictures, I like to represent perspectives which, albeit being abundant, are often overlooked by our superficial gaze.
 
 ## Everyday
+<p align="middle">
+  <img src="http://m-a-c-e.github.io/website/files/phtography/_DSC0856-01.jpeg" width="300" height="200 />
+  <figcaption align="middle"> #Morning #Tea. </figcaption>
+</p>
+
 ## Macro
 ## Story
 ## Landscapes
