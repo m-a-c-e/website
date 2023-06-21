@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Photography Portfolio
+## Photography Portfolio (work in progress...)
 I have pursued photography as a hobby since my 14th birthday, when I received a digital camera as a present from my family. Through most of my pictures, I like to represent perspectives which, albeit being abundant, are often overlooked by our superficial gaze.
 
 ## Everyday
