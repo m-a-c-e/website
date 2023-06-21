@@ -14,7 +14,7 @@ I have pursued photography as a hobby since my 14th birthday, when I received a 
 
 ## Everyday
 <p align="middle">
-  <img src="http://m-a-c-e.github.io/website/files/phtography/_DSC0856-01.jpeg" width="300" height="200 />
+  <img src="images/photography/_DSC0856-01.jpeg" width="300" height="200 />
   <figcaption align="middle"> #Morning #Tea. </figcaption>
 </p>
 
