@@ -16,7 +16,7 @@ The goal is to build a control policy for tracking a wall at a desired distance.
 - The only action that the robot is allowed to take is setting its angular velocity between -1 and 1 rad/s, and hence the tanh activation function. The linear velocity is set to a constant of 0.1 m/s
 - The loss for a given episode is a summation of future expected rewards at each time step, calcualted using temporal difference learning.
 - The simulation is run in gazebo with turtlebot3 and custom world files
-- [Link to the research paper](http://m-a-c-e.github.io/website/files/final_submission.pdf)
+- [Link to the research paper](http://m-a-c-e.github.io/website/files/capston_research_paper.pdf)
 
 <p align="middle">
   <img src="http://m-a-c-e.github.io/website/files/right_turns.gif" width="400" />
