@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-### 3D Simulation
+### 3D Simulation (Georgia Tech - Fall 2021)
 - Rendering using OpenGL and multi-threading using std::threads in C++
 - The physics of the sphere is such that the UAVs are attracted to the surface of the sphere
 - The UAVs perform random motion while also colliding with each other
