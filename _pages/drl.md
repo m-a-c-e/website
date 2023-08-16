@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-### Control Policy Using Deep Reinforcement Learning
+### Control Policy Using Deep Reinforcement Learning (Georgia Tech - Spring 2023)
 The goal is to build a control policy for tracking a wall at a desired distance. Since I like to work on algorithms from the ground up, I have chosen this relatively simple task, but in exchange, I get a fine grained idea on how to deploy algorithms from scratch. The only libraries used are ROS and gazebo packages, pytorch and numpy.
 
 - The control policy is a three layer MLP with a tanh activation
