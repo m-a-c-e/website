@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Depth from Stereo
+### Depth from Stereo (Equipment Share - Summer 2022)
 The goal of this project was to detect people wearing safety vest around a track loader using cameras. We developed a custom depth from stereo pipeline using two mounted orlaco cameras which streamed images synchronously. The steps in the pipeline were as follows:
 - Get the camera calibration and transformation matrices
 - Filter the image for safety vest colors using hsv color space in OpenCV
